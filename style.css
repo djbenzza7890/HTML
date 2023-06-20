@@ -1,0 +1,35 @@
+.bgrgb{
+    background: linear-gradient(90deg, #8E2DE2 0%, rgba(74, 0, 224, 0.71) 100%);
+}
+
+.bgcryptocurrency{
+   background-size: cover;
+   width: 100%;
+}
+
+.bgbit{
+    width: inherit;
+}
+
+.bgfoot{
+    
+    width: inherit;
+}
+
+.footer{
+    background: linear-gradient(90.04deg, #8E2DE2 0.58%, #4A00E0 99.23%);
+}
+
+.footer .container{
+    color: white;
+    
+}
+.mg{
+    margin: unset;
+}
+.col{
+    padding: unset !important;
+}
+.pad{
+    padding-left: 10px;
+}
